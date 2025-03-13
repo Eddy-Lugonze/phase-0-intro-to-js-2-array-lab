@@ -1,5 +1,4 @@
 // Write your solution here!
-// index.js
 
 // Initial array of cats
 let cats = ["Milo", "Otis", "Garfield"];
